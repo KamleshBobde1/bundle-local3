@@ -1,7 +1,7 @@
 code: et-app-conf
 titles:
-  en: Entando Template MF with conf and strapi
-  it: Entando Template MF with conf and strapi
+  en: Single Content
+  it: Single Content
 group: free
 customUiPath: et-widget.ftl
 configUi:
